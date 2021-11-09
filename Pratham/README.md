@@ -1,5 +1,4 @@
 <h1> Object Dection Project Using OpenCV </h1> 
-***
 <div align="center">
     <h2>Where's Waldo!</h2>
   <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
@@ -24,9 +23,11 @@ pip install opencv-python
 
 <h2> 📝 CODE EXPLANATION </h2>
 <samp>Importing OpenCV</samp>
+
 ```python
 import cv2
 ```
+***
 
 <samp>Loading base image and template image using `cv2.imread()`</samp>
 <table>
