@@ -1,4 +1,5 @@
 # Object Dection Project Using OpenCV 
+===
 <div align="center">
   <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
 </div>
@@ -7,20 +8,29 @@
 
 ## CODE 
 Importing OpenCV
-```
+```python
 import cv2 as cv
 ```
 Loading base image and template image using `cv.imread()`
-```
+```python
 img = cv.imread(r'D:\projects\AI-ML-MINI-PROJECT-2\Pratham\images\wheres_waldo.jpg')
+
 img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+
 template = cv.imread(r'D:\projects\AI-ML-MINI-PROJECT-2\Pratham\images\temp.jpg',0)
 ```
-h ,w = template.shape
 
+Getting the height and width of the template image using `.shape` method.
+```python
+h ,w = template.shape
+```
+`cv.matchTemplate` is used to comapare images. It gives a 2D-array as output. 
+```python
 match = cv.matchTemplate(img_gray,template,cv.TM_CCOEFF_NORMED)
 threshold = 0.99
+```
 
+```py
 min_val, max_val, min_location, max_location = cv.minMaxLoc(match)
 location = max_location
 font = cv.FONT_HERSHEY_PLAIN
