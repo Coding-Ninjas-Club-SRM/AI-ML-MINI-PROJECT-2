@@ -97,9 +97,14 @@ cv2.imshow('grayscale.jpg',img_gray)
 cv2.imwrite('AI-ML-MINI-PROJECT-2\Pratham\Results.jpg',img)
 cv2.imshow('Results.jpg',img)
 ```
-
+***
+`cv2.waitkey()` allows you to wait for a specific time in milliseconds until you press any button on the keyword.
 ```py
 cv2.waitKey(0)
+```
+***
+`cv2.destroyAllWindows()` method destroys all windows whenever any key is pressed.
+```py
 cv2.destroyAllWindows()
 
 ```
