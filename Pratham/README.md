@@ -8,8 +8,13 @@
 
 > This project uses Template Matching technique for object detecting by detection of template image over base image.
 
+## REQUIREMENTS
++ OpenCV
+```
+pip install opencv-python
+```
 
-## CODE 
+## CODE EXPLANATION
 <samp>Importing OpenCV</samp>
 ```python
 import cv2
@@ -108,5 +113,11 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+
+## OUTPUT
+<div align="center">
+  <img alt="OUTPUT" src="images/Result.jpg" />
+</div>
+
 
 
