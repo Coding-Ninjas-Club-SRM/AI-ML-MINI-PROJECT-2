@@ -9,7 +9,12 @@
 > This project uses Template Matching technique for object detecting by detection of template image over base image.
 
 ## REQUIREMENTS
-+ OpenCV<a href="https://opencv.org/"><img src="images/OpenCV_Logo" width="25"></img></a>&nbsp;&nbsp;
++ OpenCV<a href="https://opencv.org/"><img src="images/OpenCV_Logo.png" width="25"></img></a>&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+alt="python"
+width="25"
+height="25"
 ```
 pip install opencv-python
 ```
