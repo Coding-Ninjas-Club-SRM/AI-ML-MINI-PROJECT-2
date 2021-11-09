@@ -8,12 +8,16 @@
 
 > This project matches Template Matching technique for object detecting by detection of template image over base image.
 
+<div align="center">
+  <img alt="Where's Waldo!" src="images/where_waldo.jpg" height="150 x    " />
+</div>
+
 ## CODE 
-<samp>Importing OpenCV
+<samp>Importing OpenCV</samp>
 ```python
 import cv2 as cv
 ```
-Loading base image and template image using `cv.imread()`
+<samp>Loading base image and template image using `cv.imread()`</samp>
 ```python
 img = cv.imread(r'D:\projects\AI-ML-MINI-PROJECT-2\Pratham\images\wheres_waldo.jpg')
 
@@ -48,5 +52,5 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 
 ```
-</samp>
+
 
