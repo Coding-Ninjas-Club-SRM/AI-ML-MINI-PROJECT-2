@@ -1,6 +1,7 @@
-# Object Dection Project Using OpenCV 
+<h1> Object Dection Project Using OpenCV </h1> 
 ***
 <div align="center">
+    <h2>Where's Waldo!</h2>
   <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
 </div>
 
@@ -113,11 +114,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-
+***
 ## OUTPUT
 <div align="center">
   <img alt="OUTPUT" src="images/Result.jpg" />
 </div>
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through below handles.
+
+<a href="https://twitter.com/prrthamm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/pratham-bhatnagar/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
 
