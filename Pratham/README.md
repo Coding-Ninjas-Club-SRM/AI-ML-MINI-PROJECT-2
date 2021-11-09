@@ -1,7 +1,7 @@
 # Object Dection Project Using OpenCV 
 ***
 <div align="center">
-  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
+  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" />
 </div>
 
 ***
