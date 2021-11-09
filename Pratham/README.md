@@ -20,10 +20,13 @@ Base Image
 <table>
 <tr>
     <td>
-        `Input Image`
+        <b>Input Image</b>
     </td>
     <td>
-        `Grayscaled`
+        <b>Grayscaled</b>
+    </td>
+    <td>
+        <b>Template Image</b>
     </td>
 </tr>
 <tr>
@@ -32,6 +35,9 @@ Base Image
     </td>
     <td>
     <img alt="Where's Waldo(Grayscaled)" src="images/grayscale.jpg" height="500 x    " />
+    </td>
+    <td>
+    <img alt="Template Image" src="images/temp.jpg" height="500 x    " />
     </td>
 </tr>
 </table>
