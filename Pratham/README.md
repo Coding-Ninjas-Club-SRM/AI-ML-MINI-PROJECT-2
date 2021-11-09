@@ -1,8 +1,8 @@
 # Object Dection Project Using OpenCV 
 <div align="center">
-  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="56" />
+  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="100 x    " />
 </div>
-> This project matches Template Matching technique for object detecting by detection of template image over base image.
+` This project matches Template Matching technique for object detecting by detection of template image over base image. `
 
 ## CODE 
 Importing OpenCV
