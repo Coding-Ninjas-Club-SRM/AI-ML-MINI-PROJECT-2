@@ -2,16 +2,20 @@
 <div align="center">
   <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="56" />
 </div>
-> Importing OpenCV
+> This project matches Template Matching technique for object detection.
+> This project involves detection of template image over base image
+
+## CODE 
+Importing OpenCV
 ```
 import cv2 as cv
 ```
 
 ```
-
 img = cv.imread(r'D:\projects\AI-ML-MINI-PROJECT-2\Pratham\images\wheres_waldo.jpg')
 img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 template = cv.imread(r'D:\projects\AI-ML-MINI-PROJECT-2\Pratham\images\temp.jpg',0)
+```
 h ,w = template.shape
 
 match = cv.matchTemplate(img_gray,template,cv.TM_CCOEFF_NORMED)
