@@ -1,7 +1,7 @@
 # Object Dection Project Using OpenCV 
 ***
 <div align="center">
-  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" />
+  <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
 </div>
 
 ***
@@ -9,7 +9,7 @@
 > This project matches Template Matching technique for object detecting by detection of template image over base image.
 
 <div align="center">
-  <img alt="Where's Waldo!" src="images/where_waldo.jpg" height="150 x    " />
+  <img alt="Where's Waldo!" src="images/wheres_waldo.jpg" height="250 x    " />
 </div>
 
 ## CODE 
