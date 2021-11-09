@@ -37,7 +37,7 @@ Base Image
     <img alt="Where's Waldo(Grayscaled)" src="images/grayscale.jpg" height="500 x    " />
     </td>
     <td>
-    <img alt="Template Image" src="images/temp.jpg" height="500 x    " />
+    <img alt="Template Image" src="images/temp.jpg"/>
     </td>
 </tr>
 </table>
