@@ -1,7 +1,6 @@
 # Where is Waldo 
 <div align="center">
-    <h2>Where's Waldo!</h2>
-  <img alt="Where's Waldo!" src="/Users/om/Downloads/download.png" height="150 x    " />
+  <img src="/Users/om/Downloads/download.png" height="150 x    " />
 </div>
 
 # Libraries Used
