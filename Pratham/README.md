@@ -5,7 +5,7 @@
 </div>
 
 
-> This project uses Template Matching technique for object detecting by detection of template image over base image.
+> This project uses Template Matching technique for object detecting by detection the template image over base image.
 
 ## REQUIREMENTS
  + Python <a href="https://www.python.org" target="_blank">
