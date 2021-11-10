@@ -1,6 +1,6 @@
 # Where's Waldo 
 <div align="center">
-  <img src="/Users/om/Downloads/download.png" height="150 x    " />
+  <img src="/Users/om/Desktop/om_folder/NTL NOTES/download.png" height="150 x    " />
 </div>
 
 # Libraries Used
