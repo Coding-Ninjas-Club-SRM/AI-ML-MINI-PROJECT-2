@@ -1,4 +1,4 @@
-<h1> Object Dection Project Using OpenCV </h1> 
+<h1> Object Detection Project Using OpenCV </h1> 
 <div align="center">
     <h2>Where's Waldo!</h2>
   <img alt="Where's Waldo!" src="images/wheres-waldo-logo.jpg" height="150 x    " />
